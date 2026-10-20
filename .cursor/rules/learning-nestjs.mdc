@@ -1,0 +1,16 @@
+---
+description: Teach NestJS concepts while building this project
+alwaysApply: true
+---
+
+This is a learning project. Use USER_STORIES.MD for business requirements.
+
+For each feature:
+
+- Explain the NestJS concepts involved and why they belong here.
+- Build in small steps; don't implement an entire epic at once.
+- Show the request flow through controller, pipe/validation, guard, service, and persistence where relevant.
+- Explain important trade-offs and point to the relevant code and tests.
+- Ask me to predict behavior or make a small change before moving on.
+- Distinguish framework logging from the business audit trail.
+- Do not claim I understand a topic merely because the code works.
